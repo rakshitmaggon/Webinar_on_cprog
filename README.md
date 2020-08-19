@@ -1,5 +1,4 @@
 
-
 <br />
 <p align="center">
   <a href="#">
@@ -11,14 +10,14 @@
   <p align="center">
     Was conducted on 4th April 2020.
     <br />
-    <a href="#"><strong>View Webinar»</strong></a>
+    <a href="https://www.facebook.com/codechefvit/videos/1334681746919673/"><strong>View Webinar»</strong></a>
     <br />
     <br />
-    <a href="#">PPT</a>
-    ·
-    <a href="#">View codes</a>
-    ·
-    <a href="#">Reference Material</a>
+    <a href="https://github.com/rmaggon6/Webinar_on_cprog/tree/master/Reference%20Material">Material</a>
+    ··
+    <a href="https://github.com/rmaggon6/Webinar_on_cprog/tree/master/Codes">View codes</a>
+    ··
+    <a href="https://github.com/rmaggon6/Webinar_on_cprog/issues">Issue</a>
   </p>
 </p>
 
@@ -34,16 +33,30 @@
     <img src="readme_img/ss2.png"  width="1000">
 </p>
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
+####  The webinar was conducted on 4th April 2020 on CodeChef-VIT's Facebook page at 10pm .</br>
+#### The session covered basics of C programming 
+- Defination and Basic Layout </br>
+- Input & Output in C 
+- Rules of Naming in C
+- Operators
+- Conditional  Statements 
+- Iteration 
+- Functions in C
+- Arrays and Strings 
+  
+
+
+
+
 
 ### Prerequisites
-None
-Webinar covers Basic of C programming 
+- None</br>
+- Webinar covers Basic of C programming 
 
 
 <!-- CONTRIBUTING -->
 ## Contributing
-Got better codes ?  Feel free to add them .
+Got better codes ?  Feel free to add them . </br>
 Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
@@ -55,14 +68,13 @@ Any contributions you make are **greatly appreciated**.
 
 ## Contact me 
 
-So connect with me and share your experience.
+-  Connect with me and share your experience.
 
-I would love to interact with this world full of amazing people such as you. 
 
-<a href="#" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg" /></a> &nbsp;&nbsp;<a href="#" target="_blank"><img height="32" width="32" src="https://cdnjs.cloudflare.com/ajax/libs/ionicons/4.5.6/collection/build/ionicons/svg/logo-linkedin.svg" /></a> &nbsp;&nbsp;
+<a href="https://www.facebook.com/rakshit.maggon.56" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg" /></a> &nbsp;&nbsp;<a href="https://www.linkedin.com/in/rakshit-maggon" target="_blank"><img height="32" width="32" src="https://cdnjs.cloudflare.com/ajax/libs/ionicons/4.5.6/collection/build/ionicons/svg/logo-linkedin.svg" /></a> &nbsp;&nbsp;
 
 ## Acknowledgements
-- Codechef-VIT: [Facebook](#) | [Website](#) 
+- Codechef-VIT: [Facebook](https://www.facebook.com/codechefvit) | [Website](https://www.codechefvit.com/) 
 
 
 <p align="center">
