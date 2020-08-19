@@ -27,7 +27,11 @@
 ## About The Webinar 
 
 <p align="center"> 
-    <img src="readme_img/screenshot.png"  width="1000">
+    <img src="readme_img/ss1.png"  width="1000">
+</p>
+</br>
+<p align="center"> 
+    <img src="readme_img/ss2.png"  width="1000">
 </p>
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
