@@ -66,12 +66,6 @@ Any contributions you make are **greatly appreciated**.
 5. Open a Pull Request
 
 
-## Contact me 
-
--  Connect with me and share your experience.
-
-
-<a href="https://www.facebook.com/rakshit.maggon.56" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg" /></a> &nbsp;&nbsp;<a href="https://www.linkedin.com/in/rakshit-maggon" target="_blank"><img height="32" width="32" src="https://cdnjs.cloudflare.com/ajax/libs/ionicons/4.5.6/collection/build/ionicons/svg/logo-linkedin.svg" /></a> &nbsp;&nbsp;
 
 ## Acknowledgements
 - Codechef-VIT: [Facebook](https://www.facebook.com/codechefvit) | [Website](https://www.codechefvit.com/) 
