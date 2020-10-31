@@ -13,11 +13,11 @@
     <a href="https://www.facebook.com/codechefvit/videos/1334681746919673/"><strong>View Webinar»</strong></a>
     <br />
     <br />
-    <a href="https://github.com/rmaggon6/Webinar_on_cprog/tree/master/Reference%20Material">Material</a>
-    ··
-    <a href="https://github.com/rmaggon6/Webinar_on_cprog/tree/master/Codes">View codes</a>
-    ··
-    <a href="https://github.com/rmaggon6/Webinar_on_cprog/issues">Issue</a>
+    <a href="https://github.com/rmaggon6/Webinar_on_cprog/tree/master/Reference%20Material"><strong>Material<strong></a>
+    ||
+    <a href="https://github.com/rmaggon6/Webinar_on_cprog/tree/master/Codes"><strong>View codes<strong></a>
+    ||
+    <a href="https://github.com/rmaggon6/Webinar_on_cprog/issues"><strong>Issue<strong></a>
   </p>
 </p>
 
