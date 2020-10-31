@@ -13,11 +13,11 @@
     <a href="https://www.facebook.com/codechefvit/videos/1334681746919673/"><strong>View Webinar>></strong></a>
     <br />
     <br />
-    <a href="https://github.com/rmaggon6/Webinar_on_cprog/tree/master/Reference%20Material"><strong>Material<strong></a>
+    <a href="https://github.com/rmaggon6/Webinar_on_cprog/tree/master/Reference%20Material"><strong>Material <strong></a>
     ||
-    <a href="https://github.com/rmaggon6/Webinar_on_cprog/tree/master/Codes"><strong>View codes<strong></a>
+    <a href="https://github.com/rmaggon6/Webinar_on_cprog/tree/master/Codes"><strong> View codes <strong></a>
     ||
-    <a href="https://github.com/rmaggon6/Webinar_on_cprog/issues"><strong>Issue<strong></a>
+    <a href="https://github.com/rmaggon6/Webinar_on_cprog/issues"><strong> Issue<strong></a>
   </p>
 </p>
 
@@ -25,13 +25,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Webinar 
 
-<p align="center"> 
-    <img src="readme_img/ss1.png"  width="1000">
-</p>
-</br>
-<p align="center"> 
-    <img src="readme_img/ss2.png"  width="1000">
-</p>
 
 ####  The webinar was conducted on 4th April 2020 on CodeChef-VIT's Facebook page at 10pm .</br>
 #### The session covered basics of C programming 
@@ -53,6 +46,15 @@
 - None</br>
 - Webinar covers Basic of C programming 
 
+
+### Snapshots
+<p align="center"> 
+    <img src="readme_img/ss1.png"  width="1000">
+</p>
+</br>
+<p align="center"> 
+    <img src="readme_img/ss2.png"  width="1000">
+</p>
 
 <!-- CONTRIBUTING -->
 ## Contributing
