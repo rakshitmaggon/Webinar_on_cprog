@@ -10,7 +10,7 @@
   <p align="center">
     Was conducted on 4th April 2020.
     <br />
-    <a href="https://www.facebook.com/codechefvit/videos/1334681746919673/"><strong>View Webinar»</strong></a>
+    <a href="https://www.facebook.com/codechefvit/videos/1334681746919673/"><strong>View Webinar>></strong></a>
     <br />
     <br />
     <a href="https://github.com/rmaggon6/Webinar_on_cprog/tree/master/Reference%20Material"><strong>Material<strong></a>
